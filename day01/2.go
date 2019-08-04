@@ -1,4 +1,4 @@
-package day1
+package day01
 
 func Part2(input string) int {
 	count := 0
